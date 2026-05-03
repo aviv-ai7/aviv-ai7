@@ -27,9 +27,9 @@ From automation to full-scale applications — we build for growth.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aviv-ai7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Stats](https://github-readme-stats.vercel.app/api?username=aviv-ai7&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviv-ai7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Streak](https://streak-stats.demolab.com?user=aviv-ai7&theme=tokyonight&hide_border=true)
 
 ---
 
