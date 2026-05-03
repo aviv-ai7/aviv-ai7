@@ -21,7 +21,7 @@ From automation to full-scale applications — we build for growth.
 
 ## 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next.js,node,python,java,mongodb,firebase,aws,docker)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next,node,python,java,mongodb,firebase,aws,docker)
 
 ---
 
