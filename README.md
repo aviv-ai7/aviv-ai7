@@ -1,16 +1,48 @@
-## Hi there 👋
+![Banner](./banner.png)
 
-<!--
-**aviv-ai7/aviv-ai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Aviv Innovations | aviv.ai
+![Typing](https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=600&lines=Build+Web+%26+Mobile+Apps;Automate+Business+Processes;Scale+with+Technology)
 
-Here are some ideas to get you started:
+### ⚙️ Building Scalable Web & Mobile Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We help businesses transform their processes into powerful digital systems.
+From automation to full-scale applications — we build for growth.
+
+---
+
+## 🧠 What We Do
+
+* ⚙️ Business Process Automation
+* 🌐 Web App Development
+* 📱 Mobile App Development
+* 🔗 API Integrations & Systems
+
+---
+
+## 🛠 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next,node,python,java,mongodb,firebase,aws,docker)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Us
+
+* 🌐 Website: https://aviv.ai
+* 💼 LinkedIn: (add later)
+* 📩 Email: [contact@aviv.ai](mailto:contact@aviv.ai)
+
+---
+
+## ⚡ Philosophy
+
+> Build smarter. Automate faster. Scale without limits.
+
+---
