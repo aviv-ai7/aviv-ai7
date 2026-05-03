@@ -21,15 +21,15 @@ From automation to full-scale applications — we build for growth.
 
 ## 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next,node,python,java,mongodb,firebase,aws,docker)
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next.js,node,python,java,mongodb,firebase,aws,docker)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=aviv-ai7\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviv-ai7\&theme=tokyonight)
 
 ---
 
@@ -37,7 +37,7 @@ From automation to full-scale applications — we build for growth.
 
 * 🌐 Website: https://aviv.ai
 * 💼 LinkedIn: (add later)
-* 📩 Email: [contact@aviv.ai](mailto:contact@aviv.ai)
+* 📩 Email: [contact@aviv.ai](mailto:aviv7ai@gmail.com)
 
 ---
 
