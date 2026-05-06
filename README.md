@@ -1,4 +1,4 @@
-![Banner](./banner (2).png)
+![Banner](./banner.png)
 
 # 🚀 Aviv Innovations | aviv.ai
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=600&lines=Build+Web+%26+Mobile+Apps;Automate+Business+Processes;Scale+with+Technology)
